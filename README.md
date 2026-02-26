@@ -1,7 +1,9 @@
 <h1 align="center">Hey there</h1>
 
 <p align="center">
-  <img src="vector-dino.png" width="800" height="500"/>
+  <img src="vector-dino.png" 
+       alt="Dino Banner"
+       style="width: 100%; max-width: 900px; height: 300px; object-fit: cover; border-radius: 10px;" />
 </p>
 
 ---
@@ -17,9 +19,7 @@ Interested in AI and Web Development
 ## 🌐 Social Media
 
 <p align="center">
-
 <a href="https://github.com/antoniusrikihermawan">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
 </p>
