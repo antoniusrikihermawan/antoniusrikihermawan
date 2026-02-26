@@ -3,7 +3,7 @@
 <p align="center">
   <img src="vector-dino.png" 
        alt="Dino Banner"
-       style="width: 100%; max-width: 900px; height: 300px; object-fit: cover; border-radius: 10px;" />
+       style="width: 100%; max-width: 900px; height: auto; border-radius: 12px;" />
 </p>
 
 ---
