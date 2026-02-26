@@ -11,8 +11,7 @@
 ## 👨‍💻 About Me
 
 Hi, I'm Riki Hermawan  
-Backend Developer (Laravel)  
-Interested in AI and Web Development  
+Junior Backend Developer 
 
 ---
 
